@@ -1,0 +1,44 @@
+<style type="text/css">
+html	{ font-family:tahoma; font-size:8px; }
+body	{ font-family:tahoma; font-size:18px; }
+
+.hide {
+	display:none;
+	visibility:hidden;
+}
+
+table.gridtable {
+	font-family: verdana,arial,sans-serif;
+	font-size:11px;
+	color:#333333;
+	border-width: 1px;
+	border-right: 0px;
+	border-left: 0px;
+	border-color: #666666;
+	border-color: #ababab;
+	border-collapse: collapse;
+}
+table.gridtable th {
+	border-width: 1px;
+	border-right: 0px;
+	border-left: 0px;
+	border-top: 4px;
+	padding: 4px;
+	border-style: solid;
+	border-color: #666666;
+	border-color: #ababab;
+	background-color: #dedede;
+}
+table.gridtable td {
+	border-width: 1px;
+	border-right: 0px;
+	border-left: 0px;
+	border-bottom: 0px;
+	padding: 4px;
+	text-align: center;
+	border-style: solid;
+	border-color: #666666;
+	border-color: #dddddd;
+	background-color: #ffffff;
+}
+</style>
